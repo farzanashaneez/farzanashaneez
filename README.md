@@ -54,4 +54,5 @@ I'm always open to collaborating on exciting web development projects! Feel free
 
 Thanks for stopping by my GitHub! I’m excited to connect and work with fellow developers. Don’t hesitate to reach out!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Farzana Shaneez-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/farzana-shaneez-4792b7107)](https://www.linkedin.com/in/farzana-shaneez-4792b7107)
+[![LinkedIn Badge](https://img.shields.io/badge/-Farzana%20Shaneez-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/farzana-shaneez-4792b7107)
+
