@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub! 🌟
 
-Hi there! I'm Farzana Shaneez, a passionate web developer specializing in TypeScript, JavaScript, and modern frameworks like React.js and Node.js. I'm on a journey to build innovative web applications and expand my skills every day!
+Hi there! I'm **Farzana Shaneez**, a passionate web developer specializing in TypeScript, JavaScript, and modern frameworks like React.js and Node.js. I'm on a journey to build innovative web applications and expand my skills every day!
 
  🚀 Technologies & Skills
 
