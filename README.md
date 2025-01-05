@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub! 🌟
 
-Hi there! I'm [Your Name], a passionate web developer specializing in TypeScript, JavaScript, and modern frameworks like React.js and Node.js. I'm on a journey to build innovative web applications and expand my skills every day!
+Hi there! I'm Farzana Shaneez, a passionate web developer specializing in TypeScript, JavaScript, and modern frameworks like React.js and Node.js. I'm on a journey to build innovative web applications and expand my skills every day!
 
  🚀 Technologies & Skills
 
@@ -14,7 +14,8 @@ Hi there! I'm [Your Name], a passionate web developer specializing in TypeScript
   - Express.js
 
 - Databases:
-  - SQL (MySQL, PostgreSQL)
+  - SQL (PostgreSQL)
+  - NoSql (Mongodb)
 
 - Development Practices:
   - TypeScript Best Practices
@@ -32,11 +33,10 @@ As a lifelong learner, I love diving into:
 
 Here are some of my key projects that showcase my skills:
 
-- **[Your Project Name 1]**: A web application built with React.js and TypeScript. [Brief description of what it does and highlights of its features.]
+- CommunityConnect: A web application built with React.js and TypeScript.CommunityConnect is an innovative web application developed using the MERN (MongoDB, Express.js, React, Node.js,Typescript) stack, designed to bridge gaps within local communities by providing a comprehensive digital platform for resource sharing, communication, and engagement. The application aims to empower community members by creating a centralized, user-friendly ecosystem where individuals can easily access local services, participate in discussions, discover events, and connect with relevant support networks.
   
-- **[Your Project Name 2]**: A CRUD application using Node.js and MySQL. [Brief description of its functionalities and use cases.]
+- Sheshop: A CRUD application using Node.js and MySQL.SheShop is a responsive e-commerce website designed to sell beauty products online. Built using HTML, Bootstrap, and JavaScript, it features a clean and modern design optimized for desktops, tablets, and mobile devices. The platform offers an intuitive user interface, showcasing a variety of beauty and skincare products in an organized layout, making it easy for customers to browse and shop. Interactive elements powered by JavaScript enhance the user experience, providing smooth navigation and dynamic functionality. Future enhancements include implementing search and filter options, adding a shopping cart with a payment gateway, and integrating a backend for user account and order management. SheShop is a perfect foundation for creating a full-fledged online beauty store.
 
-- Open-Source Contributions: I've contributed to various open-source projects. [Link to your contributions or mention specific projects if notable.]
 
  🤝 Let's Connect
 
