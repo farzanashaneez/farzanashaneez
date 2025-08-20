@@ -39,9 +39,9 @@
 
 ---
 
-![Lekshmi's Git Status](https://github-readme-stats.vercel.app/api?username= farzanashaneez&show_icons=true&theme=radical&&hide=issues)
+![Farzana Shaneez's Git Status](https://github-readme-stats.vercel.app/api?username=farzanashaneez&show_icons=true&theme=radical&&hide=issues)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username= farzanashaneez&show_icons=true&locale=en&layout=compact" alt="lekshmi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzanashaneez&show_icons=true&locale=en&layout=compact" alt="lekshmi" /></p>
 
 
 
