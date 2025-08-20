@@ -2,7 +2,7 @@
 ---
 ### software Developer
 
-- ♑  I'm currently Looking to collaborate on Interesting projects
+- ♑ Looking forward to contributing my skills to dynamic and challenging projects.
 - 👨‍💻 Passionate about continuous learning and growing as a Full Stack Developer
 - 💬 Ask me about: Web Development | MERN Stack | MongoDB | React | Node.js
 - 🚀 Open to opportunities and actively seeking placement in top startups
