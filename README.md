@@ -56,3 +56,29 @@ Thanks for stopping by my GitHub! I’m excited to connect and work with fellow 
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Farzana%20Shaneez-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/farzana-shaneez-4792b7107)
 
+
+
+
+
+
+
+Hi there 👋 It's me Farzana
+MERN Stack Developer | TypeScript Enthusiast
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="300" height="200">
+🚀 Certified MERN Stack Developer
+👩‍💻 Skilled in React.js, Node.js, TypeScript, Express.js, PostgreSQL, MongoDB
+🎨 Confident in creating scalable, user-friendly web applications
+🌱 Currently exploring advanced TypeScript & system design
+💬 Ask me about: Web Development | MERN Stack | React | Node.js | TypeScript
+📫 Reach me at: farzanashaneez@gmail.com
+😄 Pronouns: she/her · techie 🌐
+🌐 Connect With Me
+<p align="left"> <a href="https://www.linkedin.com/in/farzana-shaneez-4792b7107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farzana" height="30" width="40" /></a> <a href="https://leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="farzana" height="30" width="40" /></a> </p>
+🛠️ Languages & Frameworks I Use
+<div style="display:flex; gap:10px; flex-wrap:wrap;"> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" title="JavaScript" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" title="TypeScript" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" title="Node.js" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=Nlsua06Gvxel&format=png&color=000000" title="React" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" title="Express.js" /> </div>
+🗄️ Databases I Work With
+<div style="display:flex; gap:10px; flex-wrap:wrap;"> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" title="MongoDB" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" title="PostgreSQL" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" title="Firebase" /> </div>
+💻 Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="VS Code" />
+📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzanashaneez&show_icons=true&locale=en&layout=compact" alt="farzana" /></p>
