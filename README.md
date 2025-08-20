@@ -1,84 +1,48 @@
-# 🌟 Welcome to My GitHub! 🌟
+# Hi there 👋 It's me Farzana Shaneez
+---
+##### software Developer
+<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" align="right" width="300" height="200">
 
-Hi there! I'm **Farzana Shaneez**, a passionate web developer specializing in TypeScript, JavaScript, and modern frameworks like React.js and Node.js. I'm on a journey to build innovative web applications and expand my skills every day!
+- ♑  I'm currently Looking to collaborate on Interesting projects
+- 👨‍💻 Passionate about continuous learning and growing as a Full Stack Developer
+- 💬 Ask me about: Web Development | MERN Stack | MongoDB | React | Node.js
+- 🚀 Open to opportunities and actively seeking placement in top startups
+- 📫 Reach me at: farzanashaneez@gmail.com
+- 😄 Pronouns: she/her · they/them · techie 🌐
 
- 🚀 Technologies & Skills
+## Connect With Me:
+<p align="left">
+<a href="https://www.linkedin.com/in/farzana-shaneez-4792b7107"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lekshmi" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/farzanashaneez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lekshmi" height="30" width="40" /></a>
+</p>
 
-- Programming Languages: 
-  - TypeScript
-  - JavaScript
+## Languages I Know:
+<div style="display:flex;">
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" title="C" />
+<img src="https://img.icons8.com/?size=100&id=40669&format=png" height="50" width="50" alt="C++" title="C++" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" title="Java" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" title="Java Script" /> 
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" title="Type Script" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" title="Node.js" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=Nlsua06Gvxel&format=png&color=000000" title="React" />
+</div>
 
-- Frameworks:
-  - React.js
-  - Node.js
-  - Express.js
+## Code Editor Tool:
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="VS Code"  />
 
-- Databases:
-  - SQL (PostgreSQL)
-  - NoSql (Mongodb)
+## Database I Know:
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="MongoDB" title="MongoDB" />
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" title="PostgreSQL" />
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="Firebase" title="Firebase" />
+</div>
 
-- Development Practices:
-  - TypeScript Best Practices
-  - Functional Components
-  - React Hooks
+---
 
- 🌱 Continuous Learning
+![Lekshmi's Git Status](https://github-readme-stats.vercel.app/api?username= farzanashaneez&show_icons=true&theme=radical&&hide=issues)
 
-As a lifelong learner, I love diving into:
-- TypeScript Best Practices to write cleaner and safer code.
-- Building Full-Stack Applications with React.js and Node.js to deliver seamless user experiences.
-- Data Structures and Algorithms on platforms like LeetCode to sharpen my problem-solving skills.
-
- 📦 Projects Showcase
-
-Here are some of my key projects that showcase my skills:
-
-- CommunityConnect: A web application built with React.js and TypeScript.CommunityConnect is an innovative web application developed using the MERN (MongoDB, Express.js, React, Node.js,Typescript) stack, designed to bridge gaps within local communities by providing a comprehensive digital platform for resource sharing, communication, and engagement. The application aims to empower community members by creating a centralized, user-friendly ecosystem where individuals can easily access local services, participate in discussions, discover events, and connect with relevant support networks.
-  
-- Sheshop: A CRUD application using Node.js and MySQL.SheShop is a responsive e-commerce website designed to sell beauty products online. Built using HTML, Bootstrap, and JavaScript, it features a clean and modern design optimized for desktops, tablets, and mobile devices. The platform offers an intuitive user interface, showcasing a variety of beauty and skincare products in an organized layout, making it easy for customers to browse and shop. Interactive elements powered by JavaScript enhance the user experience, providing smooth navigation and dynamic functionality. Future enhancements include implementing search and filter options, adding a shopping cart with a payment gateway, and integrating a backend for user account and order management. SheShop is a perfect foundation for creating a full-fledged online beauty store.
-
-
- 🤝 Let's Connect
-
-I'm always open to collaborating on exciting web development projects! Feel free to reach out if you’d like to chat about technology, coding, or just brainstorm creative solutions. I'm particularly interested in:
-
-- Collaboration on innovative web development projects
-- Discussing tech trends and best practices
-- Contributing to the open-source community
-
- 📝 Additional Tips
-
-- I regularly update my README and projects to share my latest work!
-- I believe in continual improvement and push incremental changes to showcase my progress.
-- Each project includes a clear README explaining its purpose and how to get started.
-
-Thanks for stopping by my GitHub! I’m excited to connect and work with fellow developers. Don’t hesitate to reach out!
-
-[![LinkedIn Badge](https://img.shields.io/badge/-Farzana%20Shaneez-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/farzana-shaneez-4792b7107)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username= farzanashaneez&show_icons=true&locale=en&layout=compact" alt="lekshmi" /></p>
 
 
 
-
-
-
-
-Hi there 👋 It's me Farzana
-MERN Stack Developer | TypeScript Enthusiast
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="300" height="200">
-🚀 Certified MERN Stack Developer
-👩‍💻 Skilled in React.js, Node.js, TypeScript, Express.js, PostgreSQL, MongoDB
-🎨 Confident in creating scalable, user-friendly web applications
-🌱 Currently exploring advanced TypeScript & system design
-💬 Ask me about: Web Development | MERN Stack | React | Node.js | TypeScript
-📫 Reach me at: farzanashaneez@gmail.com
-😄 Pronouns: she/her · techie 🌐
-🌐 Connect With Me
-<p align="left"> <a href="https://www.linkedin.com/in/farzana-shaneez-4792b7107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farzana" height="30" width="40" /></a> <a href="https://leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="farzana" height="30" width="40" /></a> </p>
-🛠️ Languages & Frameworks I Use
-<div style="display:flex; gap:10px; flex-wrap:wrap;"> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" title="JavaScript" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" title="TypeScript" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" title="Node.js" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=Nlsua06Gvxel&format=png&color=000000" title="React" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" title="Express.js" /> </div>
-🗄️ Databases I Work With
-<div style="display:flex; gap:10px; flex-wrap:wrap;"> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" title="MongoDB" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" title="PostgreSQL" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" title="Firebase" /> </div>
-💻 Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="VS Code" />
-📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzanashaneez&show_icons=true&locale=en&layout=compact" alt="farzana" /></p>
+[![Lekshmi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=farzanashaneez&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
