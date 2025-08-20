@@ -40,9 +40,9 @@
 ---
 
 ![Farzana Shaneez's Git Status](https://github-readme-stats.vercel.app/api?username=farzanashaneez&show_icons=true&theme=radical&&hide=issues)
+[![Leetcode Status](https://leetcard.jacoblin.cool/farzanashaneez?ext=contest&theme=dark)](https://leetcode.com/u/farzanashaneez/)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzanashaneez&show_icons=true&locale=en&layout=compact" alt="farzana" /></p>
-
-[![Leetcode Status](https://leetcard.jacoblin.cool/farzanashaneez?ext=contest&theme=dark)](https://leetcode.com/u/farzanashaneez/)
 
 [![farzana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=farzanashaneez&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
